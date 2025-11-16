@@ -23,30 +23,19 @@
 </div>
 
 
-<br/><br/>
-
-
-<a href="https://ffm.to/guntaasoberoi" style="padding: 14px 28px; background: #1DB954; color: white; text-decoration: none; border-radius: 8px; font-size: 20px;">
+<div style="margin-top: 20px; text-align: center;">
+<a href="https://ffm.to/guntaasoberoi" style="padding: 14px 28px; background: #1DB954; color: white; text-decoration: none; border-radius: 8px; font-size: 20px; margin-bottom: 20px; display: inline-block;">
 Pre‑Save My New Song on Spotify!
 </a>
+<br/>
+<img src="Embers_Cover_RGB-3000x3000.jpg" width="260" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-top: 20px;" />
 </div>
 
 
-<br/><br/>
-
-<br/>
-
-<!-- NEW RELEASE SECTION (COVER ABOVE BUTTON, STACKED, MINIMAL) -->
-<div style="margin-top: 20px;">
-<img src="Embers_Cover_RGB-3000x3000.jpg" width="260" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
-
-<br/>
+<br/><br/><br/>
 
 
 <p style="font-size: 14px; opacity: 0.5;">© Guntaas Oberoi</p>
 
-
-</div>
-  <p style="font-size: 14px; opacity: 0.5;">© Guntaas Oberoi</p>
 
 </div>
