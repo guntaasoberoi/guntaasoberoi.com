@@ -1,63 +1,53 @@
-# <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
-<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-font-family="'Brush Script MT', 'Lucida Handwriting', cursive"
-font-size="64" fill="#000">Guntaas Oberoi</text>
-</svg>
+<div align="center" style="padding: 60px 0; width: 100%; font-family: sans-serif;">
 
 
----
+  <h1 style="font-family: 'Brush Script MT', 'Lucida Handwriting', cursive; font-size: 80px; margin-bottom: 10px;">
+    Guntaas Oberoi
+  </h1>
 
-
-<div style="display: flex; gap: 10px;">
-<img src="IMAGE_1_URL" width="30%" />
-<img src="IMAGE_2_URL" width="30%" />
-<img src="IMAGE_3_URL" width="30%" />
+  <!-- LINKS SECTION (MIMICS ERIN'S SIMPLE LIST) -->
+  <div style="font-size: 22px; line-height: 2.2;">
+    <a href="https://www.instagram.com/guntaasoberoi/" style="text-decoration: none; color: inherit;">Instagram</a><br/>
+    <a href="https://www.tiktok.com/@guntaasoberoi" style="text-decoration: none; color: inherit;">TikTok</a><br/>
+    <a href="https://www.youtube.com/channel/UCA-4VxanqJUYK3OgRWlz_-g" style="text-decoration: none; color: inherit;">YouTube</a><br/>
+    <a href="https://open.spotify.com/artist/1ZUzDRJzMoP08ykDnQ1e8S?si=TjcmsvOjTE2VBi-StywIEg" style="text-decoration: none; color: inherit;">Spotify</a><br/>
+    <a href="https://music.apple.com/us/artist/guntaas-oberoi/1584498045" style="text-decoration: none; color: inherit;">Apple Music</a><br/>
+    <a href="SHOPIFY_STORE_URL" style="text-decoration: none; color: inherit;">Merch Store</a><br/>
+ 
+  
+  </div>
+<!-- GALLERY (THREE IMAGES IN A ROW, CENTERED) -->
+<div style="display: flex; justify-content: center; gap: 20px; margin: 40px 0;">
+<img src="images/photo1.jpg" width="28%" style="border-radius: 8px;" />
+<img src="images/photo2.jpg" width="28%" style="border-radius: 8px;" />
+<img src="images/photo3.jpg" width="28%" style="border-radius: 8px;" />
 </div>
 
 
----
+<br/>
 
 
-## Connect With Me On Socials!
+<!-- NEW RELEASE SECTION (COVER ABOVE BUTTON, STACKED, MINIMAL) -->
+<div style="margin-top: 20px;">
+<img src="images/song_cover.jpg" width="260" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 
 
-- **Instagram** — [instagram.com/guntaasoberoi]
-- **TikTok** — [tiktok.com/@guntaasoberoi]
-- **YouTube** — [youtube.com/guntaasoberoi]
-- **Spotify** — [spotify.com/artist/https://open.spotify.com/artist/1ZUzDRJzMoP08ykDnQ1e8S?si=N5hKy8DfRLavzFXWOKZahA]
-- **Apple Music** — [music.apple.com/https://music.apple.com/us/artist/guntaas-oberoi/1584498045]
+<br/><br/>
 
 
----
-
-
-## 🎵 New Release — Pre‑Save "Embers" On Spotify Now!!
-
-
-<div style="display: flex; align-items: center; gap: 20px;">
-<!-- Replace with your song cover URL -->
-<img src="SONG_COVER_URL" width="200" />
-
-
-<a href="https://ffm.to/guntaasoberoi" style="
-display: inline-block;
-padding: 12px 20px;
-background: #1DB954;
-color: white;
-border-radius: 8px;
-font-size: 18px;
-text-decoration: none;
-">✨ Pre‑Save on Spotify ✨</a>
+<a href="PRESAVE_LINK_URL" style="padding: 14px 28px; background: #1DB954; color: white; text-decoration: none; border-radius: 8px; font-size: 20px;">
+Pre‑Save on Spotify
+</a>
 </div>
 
 
----
+<br/><br/><br/>
 
 
-## Buy Merch!
+<p style="font-size: 14px; opacity: 0.5;">© Guntaas Oberoi</p>
 
 
-Check out the official merch store here:
-**Shopify Store** — [shopify.com/](#)
+</div>
+  <p style="font-size: 14px; opacity: 0.5;">© Guntaas Oberoi</p>
 
-<img src="Merch_Photo" width="200" />
+</div>
