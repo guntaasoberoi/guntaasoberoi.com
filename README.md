@@ -5,22 +5,21 @@
     Guntaas Oberoi
   </h1>
 
-  <!-- LINKS SECTION (MIMICS ERIN'S SIMPLE LIST) -->
   <div style="font-size: 22px; line-height: 2.2;">
     <a href="https://www.instagram.com/guntaasoberoi/" style="text-decoration: none; color: inherit;">Instagram</a><br/>
     <a href="https://www.tiktok.com/@guntaasoberoi" style="text-decoration: none; color: inherit;">TikTok</a><br/>
     <a href="https://www.youtube.com/channel/UCA-4VxanqJUYK3OgRWlz_-g" style="text-decoration: none; color: inherit;">YouTube</a><br/>
     <a href="https://open.spotify.com/artist/1ZUzDRJzMoP08ykDnQ1e8S?si=TjcmsvOjTE2VBi-StywIEg" style="text-decoration: none; color: inherit;">Spotify</a><br/>
     <a href="https://music.apple.com/us/artist/guntaas-oberoi/1584498045" style="text-decoration: none; color: inherit;">Apple Music</a><br/>
-    <a href="SHOPIFY_STORE_URL" style="text-decoration: none; color: inherit;">Merch Store</a><br/>
+    <a href="https://guntaas-oberoi.square.site/" style="text-decoration: none; color: inherit;">Online Shop</a><br/>
  
   
   </div>
 <!-- GALLERY (THREE IMAGES IN A ROW, CENTERED) -->
 <div style="display: flex; justify-content: center; gap: 20px; margin: 40px 0;">
-<img src="images/photo1.jpg" width="28%" style="border-radius: 8px;" />
-<img src="images/photo2.jpg" width="28%" style="border-radius: 8px;" />
-<img src="images/photo3.jpg" width="28%" style="border-radius: 8px;" />
+<img src="_MG_0276.jpg" width="28%" style="border-radius: 8px;" />
+<img src="_MG_0279.jpg" width="28%" style="border-radius: 8px;" />
+<img src="_MG_0332.jpg" width="28%" style="border-radius: 8px;" />
 </div>
 
 
@@ -29,14 +28,14 @@
 
 <!-- NEW RELEASE SECTION (COVER ABOVE BUTTON, STACKED, MINIMAL) -->
 <div style="margin-top: 20px;">
-<img src="images/song_cover.jpg" width="260" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+<img src="Embers_Cover_RGB-3000x3000.jpg" width="260" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 
 
 <br/><br/>
 
 
-<a href="PRESAVE_LINK_URL" style="padding: 14px 28px; background: #1DB954; color: white; text-decoration: none; border-radius: 8px; font-size: 20px;">
-Pre‑Save on Spotify
+<a href="https://ffm.to/guntaasoberoi" style="padding: 14px 28px; background: #1DB954; color: white; text-decoration: none; border-radius: 8px; font-size: 20px;">
+Pre‑Save My New Song on Spotify!
 </a>
 </div>
 
