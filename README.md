@@ -23,7 +23,6 @@
 </div>
 
 
-<br/>
 <br/><br/>
 
 
@@ -33,14 +32,15 @@ Pre‑Save My New Song on Spotify!
 </div>
 
 
-<br/><br/><br/>
+<br/><br/>
+
+<br/>
 
 <!-- NEW RELEASE SECTION (COVER ABOVE BUTTON, STACKED, MINIMAL) -->
 <div style="margin-top: 20px;">
 <img src="Embers_Cover_RGB-3000x3000.jpg" width="260" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 
-
-
+<br/>
 
 
 <p style="font-size: 14px; opacity: 0.5;">© Guntaas Oberoi</p>
